@@ -54,7 +54,7 @@ From early 2020, [The Carpentries Core Team](https://carpentries.org/team/), wit
     
 ## Community Facilitators Program Timeline
 
-Here is a timeline of activities as The Carpentries Core Team works to develop resources for the Community Facilitators program. If you are interested in collaborating with us on a specific module that may also be of interest for your community, please [reach out to Serah Rono via email](mailto:serah@carpentries.org?subject=Interest in co-creating Community Facilitators Program resources).
+Here is a timeline of activities as The Carpentries Core Team works to develop resources for the Community Facilitators program. If you are interested in collaborating with us on a specific module that may also be of interest for your community, please [reach out to Serah Rono via email](mailto:serah@carpentries.org?subject=Interest%20in%20co-creating%20Community%20Facilitators%20Program%20resources).
 
 | Role                                                                               	| Personnel                                                                                           	| Timeline                                                                                            	|
 |------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
