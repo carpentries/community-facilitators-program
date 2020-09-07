@@ -1,4 +1,4 @@
-# community-facilitators-program
+# The Carpentries Community Facilitators Program
 
 This repository contains context, resources and curriculum for all modules developed under The Carpentries Facilitators Program.
 
