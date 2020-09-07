@@ -63,3 +63,8 @@ Here is a timeline of activities as The Carpentries Core Team works to develop r
 | Trainers / Mentors:<br>Pilot module<br>Code of Conduct Module<br>All other modules 	| <br><br>CSCCE, Serah Rono, Kari Jordan<br>CoCc, Serah Rono<br>Community Development Team     	| <br><br>October 2020<br>May 2021<br>Q3 2021 - Q2 2022                                              	|
 | Outreach                                                                           	| Carpentries Communications Manager, Serah Rono                                                                  	| start - end of program                                                                              	|
 | Resource reviewers<br>Pilot module<br>Code of Conduct Module<br>All other modules  	| <br>Core Team<br>Core Team, Executive Council <br>Core Team, facilitators from previous cohorts 	| <br>Mid and end of Q3 2020<br>Mid and end of Q1 2021<br>Periodically between Q2 and Q4 2021 	|
+
+
+## Community Facilitators Program Life Cycle
+
+![](/visuals/program-lifecycle.png)
