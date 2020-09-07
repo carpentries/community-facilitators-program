@@ -15,3 +15,38 @@ In thinking about what the term _facilitation_ as a verb in our community, we al
 
 In Summary, Community Facilitators would be people who would be empowered to advocate for others in the community and guide community members as they navigate various intricacies of The Carpentries global community.
 
+
+## Community Facilitation in The Carpentries
+
+From early 2020, [The Carpentries Core Team](https://carpentries.org/team/), with input from experts like the [CSCCE team](https://cscce.org),  will be hard at work developing resources and onbording community members to empower them to spearhead different kinds of facilitation in The Carpentries. Here are the different facilitation roles we see an immediate need for in The Carpentries:
+
+1. Code of Conduct facilitation
+
+    Bridge between community members at events and our Code of Conduct processes
+ 
+1. Technology facilitation 
+
+    Community-facing and community-led helpdesk for all everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
+
+1. Community buddy system 
+
+    Providing a safe and welcoming environment for the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
+
+1. Communications facilitation
+
+    - Community-led committee to help translate key communications so we can share these in languages other than English across our socials
+    - Scouting for good candidates across our community to speak in panel-style, monthly Carpentries conversations 
+
+1. Resource enhancement facilitation
+
+    Content design facilitation to guide the publication and archival of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+
+1. Accessibility facilitation
+
+   Reviewing Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms. Ideally, these guidelines will be authored by Core Team and passed along to community facilitators for expansion, enforcement and maintenance i.e. update guidelines as nature of interactions or platforms evolve.
+
+1. Feedback facilitation
+
+    - Review anonymised community feedback collected by The Carpentries to periodically offer official recommendations and kickstart conversations on issues and items that Core Team should prioritise. 
+    - Maintain a public, community-wishlist board that collates community feedback on different initiatives and experiences in The Carpentries
+    - Recommend topics for Carpentries Conversations to the Communications facilitation team
