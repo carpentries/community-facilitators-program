@@ -50,3 +50,16 @@ From early 2020, [The Carpentries Core Team](https://carpentries.org/team/), wit
     - Review anonymised community feedback collected by The Carpentries to periodically offer official recommendations and kickstart conversations on issues and items that Core Team should prioritise. 
     - Maintain a public, community-wishlist board that collates community feedback on different initiatives and experiences in The Carpentries
     - Recommend topics for Carpentries Conversations to the Communications facilitation team
+    
+    
+## Community Facilitators Program Timeline
+
+Here is a timeline of activities as The Carpentries Core Team works to develop resources for the Community Facilitators program. If you are interested in collaborating with us on a specific module that may also be of interest for your community, please [reach out to Serah Rono via email](mailto:serah@carpentries.org?subject=Interest in co-creating Community Facilitators Program resources).
+
+| Role                                                                               	| Personnel                                                                                           	| Timeline                                                                                            	|
+|------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
+| Program Lead                                                              	| Serah Rono                                                                                          	| start - end of program                                                                              	|
+| Curriculum authors:<br>Pilot module<br>Code of Conduct Module<br>All other modules 	| <br><br>CSCCE, Serah Rono, Kari Jordan<br>CoCc, Serah Rono<br>Community Development Team     	| <br><br>Q3 2020<br>Q1 2021<br>Q2 2021 - Q4 2021                                                     	|
+| Trainers / Mentors:<br>Pilot module<br>Code of Conduct Module<br>All other modules 	| <br><br>CSCCE, Serah Rono, Kari Jordan<br>CoCc, Serah Rono<br>Community Development Team     	| <br><br>October 2020<br>May 2021<br>Q3 2021 - Q2 2022                                              	|
+| Outreach                                                                           	| Carpentries Communications Manager, Serah Rono                                                                  	| start - end of program                                                                              	|
+| Resource reviewers<br>Pilot module<br>Code of Conduct Module<br>All other modules  	| <br><br>Core Team<br>Core Team, Executive Council <br>Core Team, facilitators from previous cohorts 	| <br><br>Mid and end of Q3 2020<br><br>Mid and end of Q1 2021<br>Periodically between Q2 and Q4 2021 	|
