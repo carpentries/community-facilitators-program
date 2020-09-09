@@ -24,7 +24,6 @@ In Summary, Community Facilitators would be people who would be empowered to adv
 > - Learn firsthand about The Carpentries first public, community-wishlist board that collates community feedback with the opportunity to improve on it before community-wide launch
 > - Gain maintainer access on the public, community-wishlist board to manage the flow of feedback from The Carpentries community 
 > - Reflect on how giving, receiving and responding to feedback is important in healthy communities.
-
 {: .prereq}
 
 {% include links.md %}
