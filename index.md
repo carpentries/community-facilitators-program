@@ -16,14 +16,13 @@ In Summary, Community Facilitators would be people who would be empowered to adv
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Learning Objectives
->
-> - Gain insight into how feedback mechanisms currently work across all initiatives in The Carpentries 
-> - Understand how to employ Carpentries core values in designing interactions with community members
-> - Learn more about drafting and posing good questions that encourage community input
-> - Learn firsthand about The Carpentries first public, community-wishlist board that collates community feedback with the opportunity to improve on it before community-wide launch
-> - Gain maintainer access on the public, community-wishlist board to manage the flow of feedback from The Carpentries community 
-> - Reflect on how giving, receiving and responding to feedback is important in healthy communities.
+> ## Key Definitions
+> - Community - a place where members feel a sense of belonging and a desire to work together towards shared goals.
+> - Cohort - Carpentries community members trained at the same time and who then work together to develop relevant community-facing resources that address specific glue-work needs
+> - Community Facilitators - community members trained using the Community Facilitators Program curriculum
+> - Program Curriculum - suite of resources developed by this Task Force to train Community Facilitators
+> - Curriculum module - set of resources in the curriculum addressing one topic i.e. Code of Conduct facilitation
+> - Post-Training Framework - A resource created by the Task Force to guide Community Facilitators in identifying needs in The Carpentries community that they can collaboratively work to alleviate in their cohort after their training
 {: .prereq}
 
 {% include links.md %}
