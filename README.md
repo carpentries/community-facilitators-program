@@ -4,7 +4,7 @@ This repository contains context, resources and curriculum for all modules devel
 
 ## TL;DR
 
-Summarily, the Community Facilitators Program is a new initiative by The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members. This program will help sustain the growing Carpentries community and support other core programs that contribute to the advancement of our mission.
+Summarily, the Community Facilitators Program is a new initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members. This program will help sustain the growing Carpentries community and support other core programs that contribute to the advancement of our mission.
 
 
 ## Long-Form Context
@@ -18,7 +18,7 @@ In Summary, Community Facilitators would be people who would be empowered to adv
 
 ## Community Facilitation in The Carpentries
 
-From early 2020, [The Carpentries Core Team](https://carpentries.org/team/), with input from experts like the [CSCCE team](https://cscce.org),  will be hard at work developing resources and onbording community members to empower them to spearhead different kinds of facilitation in The Carpentries. Here are the different facilitation roles we see an immediate need for in The Carpentries:
+From early 2020, [The Carpentries Core Team](https://carpentries.org/team/), with input from experts like the [CSCCE team](https://cscce.org),  have been hard at work developing resources and onbording community members to empower them to spearhead different kinds of facilitation in The Carpentries. Here are the different facilitation roles we see an immediate need for in The Carpentries:
 
 1. Code of Conduct facilitation
 
