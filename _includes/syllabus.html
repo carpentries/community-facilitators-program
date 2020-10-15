@@ -38,26 +38,21 @@
     {% endif %}
     {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
       {% assign day = day | plus: 1 %}
+      {% assign lesson_number = 0 %}
       {% if day > 1 %} {% comment %} If about to start day 2 or later, show finishing time for previous day {% endcomment %}
         {% assign hours = current | divided_by: 60 %}
         {% assign minutes = current | modulo: 60 %}
-        <tr>
-          {% if multiday %}<td class="col-md-1"></td>{% endif %}
-          <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-          <td class="col-md-3">Finish</td>
-          <td class="col-md-7"></td>
-        </tr>
       {% endif %}
       {% assign current = site.start_time %} {% comment %}Re-set start time of this episode to general daily start time {% endcomment %}
     {% endif %}
     {% assign hours = current | divided_by: 60 %}
     {% assign minutes = current | modulo: 60 %}
     <tr>
-      {% if multiday %}<td class="col-md-1">{% if episode.start %}episode.module {% endif %}</td>{% endif %}
+      {% if multiday %}<td class="col-md-2">{% if episode.start %} <strong>{{episode.title}}</strong> {% endif %}</td>{% endif %}
       <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
-        {% assign lesson_number = lesson_number | plus: 1 %}
-	{{ lesson_number }}. <a href="{{ relative_root_path }}{{ episode.url }}">{{ episode.title }}</a>
+	 <a href="{{ relative_root_path }}{{ episode.url }}">{{ day}}.{{ lesson_number }} {{ episode.title }}</a>
+  {% assign lesson_number = lesson_number | plus: 1 %}
       </td>
       <td class="col-md-7">
         {% if episode.break %}
