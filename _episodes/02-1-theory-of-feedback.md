@@ -31,7 +31,7 @@ So feedback is important for _improvement_ - it is how we learn about our effect
 
 Feedback can take many forms. Let us start by reflecting on the different ways that we may already have encountered feedback in our professional lives - either in the Carpentries or elsewhere (see challenge question).
 
-> ## CHALLENGE QUESTION 
+> ## Challenge Question 
 >
 >On your own, take 2 - 3 minutes to think of some different examples of when you give or receive feedback e.g. _“I have a monthly meeting with my supervisor where she gives me feedback on my progress towards delivering my assigned goals for the month.” or “When I enjoy a link that someone else shares on Slack, I add a thumbs up emoji and sometimes leave a comment to say thank you.”_
 >
@@ -165,32 +165,26 @@ In the example about the workshop, we could imagine that the ask might be: _“I
 
 In the introductory definitions of feedback we briefly mentioned distortion of the message being transmitted (REVISIT TABLE from the Types of Feedback section). Distortion means that the underlying message that was intended to be communicated has been lost or changed somehow such that it is harder to determine the intention of the communication and an appropriate response and resolution. It is therefore important to consider if there are any factors influencing the transmission or receipt of the message when giving and receiving feedback. These can range from the limitations of the feedback mechanism (e.g. a survey may not provide a way to give more qualitative impressions) to social cues such as upvoting that can distort the perceived importance or prevalence of what is being described.
 
-> ## CHALLENGE QUESTION
+> ## Challenge Question
 >
 >Brainstorm some possible ways in which feedback about a Carpentries workshop might be shared - and the ways in which that feedback may become distorted as a result. Is there anything that can be done to ensure that less distortion occurs?
 {: .challenge}
 
-> ## Discussion: Example 1
+> ## Discussion Scenarios
 >
->The organizers of an event delayed sending out a post-event survey until the week after the event. Only 20% of the attendees of the workshop completed the survey and for 60% of the questions about the course materials the option “not applicable/can not recall” was selected. 
->In this example, the request to give formal feedback was not TIMELY and so attendees were less able to recall specific details that they may have been able to share right at the end of the workshop.
->How might you improve or avoid this scenario?
-{: .discussion}
-
-> ## Discussion: Example 2
+> ** Example One
 >
->A comment left on a social media post stated “All the materials I have ever read from this organization are so useful.”
->In this example, while the feedback sounds emphatically positive, it is not SPECIFIC about which materials the individual has seen, nor OBJECTIVE how they were useful. That makes it hard to take any action based on the feedback - such as learning which materials are being reshared or discovering new examples of how they have been applied.
->What useful action might you want to take based on positive feedback like this? How might you respond to such a post to obtain feedback that is more specific and objective?
-{: .discussion}
-
-> ## Discussion: Example 3
+> - The organizers of an event delayed sending out a post-event survey until the week after the event. Only 20% of the attendees of the workshop completed the survey and for 60% of the questions about the course materials the option “not applicable/can not recall” was selected. In this example, the request to give formal feedback was not TIMELY and so attendees were less able to recall specific details that they may have been able to share right at the end of the workshop. How might you improve or avoid this scenario?
+>
+> Example Two
+>
+>A comment left on a social media post stated “All the materials I have ever read from this organization are so useful.” In this example, while the feedback sounds emphatically positive, it is not SPECIFIC about which materials the individual has seen, nor OBJECTIVE how they were useful. That makes it hard to take any action based on the feedback - such as learning which materials are being reshared or discovering new examples of how they have been applied. What useful action might you want to take based on positive feedback like this? How might you respond to such a post to obtain feedback that is more specific and objective?
+>
+> Example 3
 >
 > A prominent community member recently made a complaint on Slack which received many emojis in response. 
 >Adding many emojis to a post may make an opinion look more popular than it is and/or overlook quieter or more subtle feedback. This is known as the Matthew Effect (also called the rich get richer effect)
 >How might the complaint be turned into something ACTIONABLE? Who should be kept informed of the actions taken?
 {: .discussion}
-
-
 
 {% include links.md %}
