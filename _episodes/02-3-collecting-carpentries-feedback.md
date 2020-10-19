@@ -1,5 +1,5 @@
 ---
-title: "Part 3: Collecting Feedback in The Carpentries"
+title: "Collecting Feedback in The Carpentries"
 teaching: 0
 exercises: 0
 questions:

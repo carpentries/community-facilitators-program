@@ -1,5 +1,5 @@
 ---
-title: "Part 5: Closing the Feedback Loop"
+title: "Closing the Feedback Loop"
 teaching: 0
 exercises: 0
 questions:

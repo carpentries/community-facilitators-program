@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Theory of Feedback"
+title: "Theory of Feedback"
 teaching: 0
 exercises: 0
 questions:
