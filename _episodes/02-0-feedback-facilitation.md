@@ -1,6 +1,5 @@
 ---
-title: "Module Overview"
-module: "Feedback Facilitation"
+title: "Feedback Facilitation"
 start: true
 teaching: 0
 exercises: 0

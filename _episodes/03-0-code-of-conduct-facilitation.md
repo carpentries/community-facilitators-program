@@ -1,5 +1,6 @@
 ---
 title: "Code of Conduct Facilitation"
+start: true
 teaching: 0
 exercises: 0
 questions:

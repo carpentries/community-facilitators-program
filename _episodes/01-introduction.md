@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+start: true
 teaching: 0
 exercises: 0
 questions:
