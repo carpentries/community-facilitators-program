@@ -28,7 +28,8 @@ The Carpentries [Core Team](https://carpentries.org/team/) provides feedback to 
 - Other: The Core Team provides feedback in other ways, including announcements for new funding and partnerships.
 
 
->CHALLENGE QUESTION: 
+> ## CHALLENGE 
+>
 >Select one of the posts below from the Carpentries [blog](https://static.carpentries.org/blog/). Identify the ways in which the Core Team solicited feedback from the community. Discuss with a partner.
 >
 > - [2020-2021 IDC Leadership Call for Applications](https://carpentries.org/blog/2020/08/IDC-leadership-call-for-applicants/)
@@ -44,7 +45,8 @@ The Carpentries [Governance](https://static.carpentries.org/governance/) provide
 - [Governing Document Updates](https://docs.carpentries.org/topic_folders/governance/index.html): The official governing documents of the Carpentries includes the Bylaws and Lesson Program Policy. Updates and revisions to these governing documents are often shared with the community for input and comments.  
 
 
->CHALLENGE QUESTION: 
+> ## CHALLENGE 
+>
 >Select one of the posts below from the Carpentries [blog](https://static.carpentries.org/blog/). Identify the ways in which the Executive Council solicited feedback from the community. Discuss with a partner.
 >
 > - [A Call to Action: Nominate Yourself for the Executive Council Today](https://carpentries.org/blog/2019/11/executive-council-nominations/)
@@ -85,7 +87,7 @@ When is the right time to “act” when we receive feedback as a community? For
 
 Now that you understand how feedback flows and where the gaps are, we hope you understand why your role as a Feedback Facilitator is so important. To prime you for the section on closing the feedback loop, please complete the following exercise.
 
-> ## CHALLENGE QUESTION 
+> ## CHALLENGE  
 >
 > As Feedback Facilitators part of your role will be to acknowledge responses we receive when asking for the community to engage with us on a particular topic. In groups of 3, create a flow chart of what this process could potentially look like. In your flow chart, be sure to include the following steps:
 >
