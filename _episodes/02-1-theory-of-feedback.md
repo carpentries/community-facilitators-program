@@ -172,15 +172,15 @@ In the introductory definitions of feedback we briefly mentioned distortion of t
 
 > ## Discussion Scenarios
 >
-> ** Example One
+> **Example One**
 >
-> - The organizers of an event delayed sending out a post-event survey until the week after the event. Only 20% of the attendees of the workshop completed the survey and for 60% of the questions about the course materials the option “not applicable/can not recall” was selected. In this example, the request to give formal feedback was not TIMELY and so attendees were less able to recall specific details that they may have been able to share right at the end of the workshop. How might you improve or avoid this scenario?
+>The organizers of an event delayed sending out a post-event survey until the week after the event. Only 20% of the attendees of the workshop completed the survey and for 60% of the questions about the course materials the option “not applicable/can not recall” was selected. In this example, the request to give formal feedback was not TIMELY and so attendees were less able to recall specific details that they may have been able to share right at the end of the workshop. How might you improve or avoid this scenario?
 >
-> Example Two
+> **Example Two**
 >
 >A comment left on a social media post stated “All the materials I have ever read from this organization are so useful.” In this example, while the feedback sounds emphatically positive, it is not SPECIFIC about which materials the individual has seen, nor OBJECTIVE how they were useful. That makes it hard to take any action based on the feedback - such as learning which materials are being reshared or discovering new examples of how they have been applied. What useful action might you want to take based on positive feedback like this? How might you respond to such a post to obtain feedback that is more specific and objective?
 >
-> Example 3
+> **Example 3**
 >
 > A prominent community member recently made a complaint on Slack which received many emojis in response. 
 >Adding many emojis to a post may make an opinion look more popular than it is and/or overlook quieter or more subtle feedback. This is known as the Matthew Effect (also called the rich get richer effect)
