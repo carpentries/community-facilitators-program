@@ -1,13 +1,14 @@
 ---
 title: "Feedback in The Carpentries"
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 30
 questions:
-- "Key question (FIXME)"
+- "How does feedback flow in The Carpentries?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Gain insight into how feedback mechanisms currently work across all initiatives in The Carpentries" 
+- "Understand how to employ Carpentries core values in designing interactions with community members"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "At The Carpentries, we value a growth mindset in all that we do and strive for continuous improvement, evolving ourselves and our methodologies, being responsive, curious, receptive to feedback, and eager to learn."
 ---
 ## The Carpentries Feedback Ethos
 
@@ -81,11 +82,13 @@ Community members provide social/shared feedback by sharing their ideas and expe
 
 ## Identifying the Feedback Distortions
 
+![](../visuals/linear-feedback-hybrid-distortion.jpg)
+
 When is the right time to “act” when we receive feedback as a community? For instance, if a Carpentries Community member provides feedback regarding an issue they are having with one of our tools, what is the process for a) collecting that information, b) sharing that information with the appropriate persons, c) developing a timeline for resolving the issue, and d) communicating the resolution back to the individual and broader community where applicable? As Feedback Facilitators you will close the feedback loop.
 
 ## How Feedback Facilitators will Close the Feedback Loop
 
-Now that you understand how feedback flows and where the gaps are, we hope you understand why your role as a Feedback Facilitator is so important. To prime you for the section on closing the feedback loop, please complete the following exercise.
+Now that you understand how feedback flows and where the gaps are, we hope you understand why your role as a Feedback Facilitator is so important. To prime you for a later section on [closing the feedback loop](../02-5-closing-the-feedback-loop/), please complete the following exercise.
 
 > ## CHALLENGE  
 >
