@@ -2,7 +2,7 @@
 title: "Introduction"
 start: true
 teaching: 20
-exercises: 1
+exercises: 10
 questions:
 - "What is the Community Facilitators Program in The Carpentries?"
 objectives:

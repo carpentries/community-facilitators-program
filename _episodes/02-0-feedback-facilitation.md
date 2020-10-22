@@ -2,7 +2,7 @@
 title: "Feedback Facilitation Module"
 start: true
 teaching: 10
-exercises: 1
+exercises: 5
 questions:
 - "What is covered under the Feedback Facilitation module of the Community Facilitators Program, and what is missing?"
 objectives:
