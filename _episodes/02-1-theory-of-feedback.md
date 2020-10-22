@@ -129,9 +129,9 @@ Taking each of the steps indicated by an arrow, let us explore the ways in which
 
 **The ideal feedback cycle**
 
-We can reimagine our simple linear flow instead as a couple of feedback loops (shown below) that more actively involve the person giving feedback to i) emphasise the importance of their input and ii) to ensure the accuracy of our understanding such that appropriate action might be taken. 
-
 ![](../visuals/feedback-loops-hybrid.jpg)
+
+We can reimagine our simple linear flow instead as a couple of feedback loops (shown below) that more actively involve the person giving feedback to i) emphasise the importance of their input and ii) to ensure the accuracy of our understanding such that appropriate action might be taken. 
 
 From the first loop above, Giver of feedback sends message ---> receipt of message ---> verify understanding 
 
