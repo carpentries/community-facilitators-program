@@ -68,7 +68,7 @@ There are several ways community members formally provide feedback to The Carpen
 >
 > **REQUEST FOR COMMENT ON THE CARPENTRIES BYLAWS:** 
 >
->Think: Read the short blog post linked below. Using what you know about what optimally presented feedback looks like, whether the information in this blog post was presented in a format that is easy for community members to take action on (e.g. Specific, Objective, Timely, Actionable).
+>Read the short blog post linked below. Using what you know about what optimally presented feedback looks like, determine whether the information in this blog post was presented in a format that is easy for community members to take action on (e.g. Specific, Objective, Timely, Actionable).
 >
 > [Help Shape the Governance of Our Community](https://carpentries.org/blog/2018/08/bylaws-rfc/)
 {: .callout}

@@ -164,7 +164,7 @@ E.g. in the example that we are working through, the optimal time to give feedba
 
 >## Note 
 >
->sometimes we do not or can not provide a way to give feedback in a timely way and this may lead to distortion of the underlying message e.g. because the giver of the feedback is now more frustrated and/or the problem has gotten worse. Delayed feedback may also require a different action e.g. in the example we are working through the action during the workshop might have been to pause the lesson and resolve the technical issues with the sound, whereas addressing the feedback afterwards becomes about issuing a refund or finding a place for the participant on a future workshop, as well as trouble-shooting what might have happened with the technical issues
+>Sometimes we do not or can not provide a way to give feedback in a timely way and this may lead to distortion of the underlying message e.g. because the giver of the feedback is now more frustrated and/or the problem has gotten worse. Delayed feedback may also require a different action e.g. in the example we are working through the action during the workshop might have been to pause the lesson and resolve the technical issues with the sound, whereas addressing the feedback afterwards becomes about issuing a refund or finding a place for the participant on a future workshop, as well as trouble-shooting what might have happened with the technical issues
 {: .callout}
 
 **Actionable** - e.g. there is a clear ask - which you may need to work with the giver of the feedback to determine. Note that sometimes there is no immediate resolution of an issue and the action may be to listen to the feedback and help a community member to feel heard.
@@ -174,8 +174,6 @@ In the example about the workshop, we could imagine that the ask might be: _“I
 ### What distorts Feedback
 
 In the introductory definitions of feedback we briefly mentioned distortion of the message being transmitted (REVISIT TABLE from the [Types of Feedback](#types-of-feedback) section). Distortion means that the underlying message that was intended to be communicated has been lost or changed somehow such that it is harder to determine the intention of the communication and an appropriate response and resolution. 
-
-![](../visuals/linear-feedback-hybrid-distortion.jpg)
 
 It is therefore important to consider if there are any factors influencing the transmission or receipt of the message when giving and receiving feedback. These can range from the limitations of the feedback mechanism (e.g. a survey may not provide a way to give more qualitative impressions) to social cues such as upvoting that can distort the perceived importance or prevalence of what is being described.
 
