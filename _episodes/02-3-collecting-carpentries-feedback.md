@@ -156,7 +156,7 @@ There is also an inactive Data Carpentry ([https://gitter.im/data-carpentry/Lobb
 To search for information on Gitter, [please follow this detailed guide by GitLab](https://gitlab.com/gitlab-org/gitter/webapp/blob/master/docs/messages.md#searching-messages).
 
 
->CHALLENGE QUESTION: 
+> ## CHALLENGE QUESTION: 
 >
 >In pairs, pick a social platform and let others know what platform you have selected for the exercise. If your platform of choice has been selected by others, pick another. 
 >
@@ -181,7 +181,7 @@ To search for feedback on all blogs associated with The Carpentries
 Our current Carpentry Clippings strategy is like so: The Carpentries Communications Manager (Omar Khan) works to solicit and organise contributions from community members - making sure Core Team members submit updates, and then writing, formatting, and publishing content from them. Some content curation is also involved i.e. for "Tweet of the Week" and "Toolshed (Posts from our Past)" sections.
 To find feedback from community members relevant to The Carpentries newsletter, use the search term ‘Carpentry Clippings’ on the different channels.
 
-> DISCUSSION 
+> ## DISCUSSION 
 >
 > What are some of the ways to improve the way feedback is shared by community membersfor content published on broadcast channels such as the ones listed above?
 {: .callout}
