@@ -45,7 +45,6 @@ The Carpentries [Governance](https://static.carpentries.org/governance/) provide
 - [Code of Conduct Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports): The Carpentries Executive Council issues public releases describing incidents reported to the Code of Conduct Committee.
 - [Governing Document Updates](https://docs.carpentries.org/topic_folders/governance/index.html): The official governing documents of the Carpentries includes the Bylaws and Lesson Program Policy. Updates and revisions to these governing documents are often shared with the community for input and comments.  
 
-
 > ## CHALLENGE 
 >
 >Select one of the posts below from the Carpentries [blog](https://static.carpentries.org/blog/). Identify the ways in which the Executive Council solicited feedback from the community. Discuss with a partner.
