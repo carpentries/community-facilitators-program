@@ -8,7 +8,8 @@ questions:
 objectives:
 - "Give an overview of content and resources made available to feedback facilitators during onboarding and over the course of their cohort work."
 - "Start a discussion about additional sections that may be necessary to add to the feedback facilitators module."
-
+keypoints:
+- "Feedback Facilitation Module was co-created by The Carpentries and CSCCE to prepare Carpentries community members for feedback facilitation roles"
 ---
 This module was co-created by Lou Woodley and Camille Santistevan from [CSCCE](https://cscce.org) and Serah Rono and Kari Jordan from [The Carpentries](https://carpentries.org).
 
