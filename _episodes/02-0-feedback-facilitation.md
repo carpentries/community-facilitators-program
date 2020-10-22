@@ -46,6 +46,6 @@ Here is an outline of what is covered in the Feedback Facilitation module of The
 > ## DISCUSSION 
 >
 > What additional content should we consider adding to this module for the benefit to feedback facilitators? Let us know by [opening an issue](http://github.com/carpentries/community-facilitators-program/issues) or [emailing us](mailto:community@carpentries.org?subject=Proposing%20additional%20content%20in%20Feedback%20Facilitators%20resource)
-{: discussion}
+{: .discussion}
 
 {% include links.md %}
