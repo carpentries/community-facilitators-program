@@ -1,5 +1,5 @@
 ---
-title: "Feedback Facilitation Module"
+title: "Feedback Facilitation"
 start: true
 teaching: 10
 exercises: 5
