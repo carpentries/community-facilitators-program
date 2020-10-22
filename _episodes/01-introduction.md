@@ -31,7 +31,7 @@ In early 2020, [The Carpentries Community Development Team](https://carpentries.
     
 1. **Feedback facilitation**
 
-  - collect and organise community feedback shared publicly and informally in Carpentries spaces for ease of filtering, action and response in the community,
+  - collect and organise community feedback shared publicly and informally in Carpentries spaces for ease of discovery, followup and response in the community,
   - periodically offer official recommendations and kickstart conversations on issues and items that Core Team should prioritise, 
   - maintain a public, community-wishlist board that collates community feedback on different initiatives and experiences in The Carpentries
   - recommend topics for Carpentries Conversations and Themed Discussions to the Instructor Development and Communications facilitation team as appropriate
