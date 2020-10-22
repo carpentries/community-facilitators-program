@@ -7,9 +7,9 @@ questions:
 - "How many forms can feedback take?"
 - "What is the ideal feedback cycle?"
 objectives:
-- "Reflect on how giving, receiving and responding to feedback is important in healthy communities.""
+- "Reflect on how giving, receiving and responding to feedback is important in healthy communities."
 keypoints:
-- "There is both an emotional role for feedback in communities - what feedback do I need to give or receive to feel like _I BELONG_? 
+- "There is both an emotional role for feedback in communities - what feedback do I need to give or receive to feel like _I BELONG_?"
 - "There is also a role for feedback in helping us to practically _ALIGN_ around a mission and the processes we will follow as we plan to achieve the mission together."
 - "Optimally presented feedback is specific, objective, timely and actionable"
 ---
