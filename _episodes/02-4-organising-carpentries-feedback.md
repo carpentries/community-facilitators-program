@@ -1,11 +1,13 @@
 ---
 title: "Organising Feedback in The Carpentries"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 60
 questions:
-- "Key question (FIXME)"
+- "Why is organising feedback such a critical step in an feedback cycle?"
+- "Once feedback is collected, how can it be organised effectively for next steps?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn firsthand about The Carpentries first public, community-wishlist board that collates community feedback with the opportunity to improve on it before community-wide launch"
+- "Gain maintainer access on the public, community-wishlist board to manage the flow of feedback from The Carpentries community" 
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
