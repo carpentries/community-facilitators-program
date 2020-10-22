@@ -3,9 +3,11 @@ title: "Theory of Feedback"
 teaching: 45
 exercises: 45
 questions:
-- "What is Feedback?"
-- "How many forms can feedback take?"
-- "What is the ideal feedback cycle?"
+- "What forms can feedback take?"
+- "What are the steps involved in giving, receiving and responding to feedback?"
+- "What does optimal feedback look like - and how might feedback become distorted?"
+- "Why is feedback important in creating and maintaining healthy communities?"
+
 objectives:
 - "Reflect on how giving, receiving and responding to feedback is important in healthy communities."
 keypoints:
@@ -114,7 +116,7 @@ _Linear Feedback Cycle: Stimulus → feedback is transmitted --> feedback is rec
 
 Taking each of the steps indicated by an arrow, let us explore the ways in which communication might fail.
 
-**Phase one (Stimulus → transmission of feedback)**
+**Phase one (Stimulus → feedback is transmitted)**
 
   - If there are no channels in which to give feedback that are accessible to the intended recipient, an individual might either refrain from sharing the feedback at all, or share it somewhere else. 
   For example, [asking for input on equitable access of platforms used in our community](https://carpentries.topicbox.com/groups/discuss/Tc78a657d4ad07e63-M31d22c780833faa30f7b39ec) can fail to capture the input of affected community members if the platform used to collect information is unavailable in their region.
