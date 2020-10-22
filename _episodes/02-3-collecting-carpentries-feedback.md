@@ -1,16 +1,18 @@
 ---
 title: "Collecting Feedback in The Carpentries"
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 30
 questions:
-- "Key question (FIXME)"
+- "How can one scout for existing informal feedback in different platforms that community members use to interact?"
+- "How can one solicit for feedback from community members effectively?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Know how to go about scouting for informal feedback relevant to specific topics in various community channels"
+- "Learn more about drafting and posing good questions that encourage community input"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "There are a lot of varied reasons for actively collecting feedback from community members, and understanding the motive behind each ask helps to ask the right questions and gain responses relevant to your aims."
 ---
 
-Feedback is an innate component of human experiences, and the relationship between the two can be likened to one between shadows and objects - even when you cannot see it, you know it is there. Creating formal processes for channeling feedback back to the designers of community experiences is an important step in sustaining an existing community and creating avenues for it to grow and thrive.
+So far, we have learnt that feedback is an innate component of human experiences, and the relationship between the two can be likened to one between shadows and objects - even when you cannot see it, you know it is there. Creating formal processes for channeling feedback back to the designers of community experiences is an important step in sustaining an existing community and creating avenues for it to grow and thrive.
 
 Feedback collection is the process by which, through observation, invitation or conversation, information about people's experiences around an initiative is recorded. Here are a few reasons why feedback is collected:
 
@@ -35,6 +37,11 @@ Feedback collection is the process by which, through observation, invitation or 
 - Community sustainability
 
   The overall outcome of seeking goodwill, documenting progress based on community input and amending an initiative’s roadmap based on changes can be continued collaboration on shared goals and transparency which, over time, constitute community sustainability 
+  
+> ## DISCUSSION 
+>
+> Apart from the five reasons for collecting feedback that are stated above, share additional reasons why feedback is sought from communities that you are part of.
+{: .callout}
 
 ## Scouting for feedback
 
@@ -153,9 +160,7 @@ To search for information on Gitter, [please follow this detailed guide by GitLa
 >
 >In pairs, pick a social platform and let others know what platform you have selected for the exercise. If your platform of choice has been selected by others, pick another. 
 >
-> Spend the next 20 minutes collecting feedback from Carpentries community members on the use of Zoom breakout rooms in online workshops or discussions. Remember to take notes in the Etherpad.
->
->Time: 20 minutes, report back and discussion: 15 minutes
+> Spend the next 10 minutes collecting feedback from Carpentries community members on the use of Zoom breakout rooms in online workshops or discussions. Remember to take notes in the Etherpad.
 {: .challenge}
 
 ### Broadcast Communications Channels
@@ -176,6 +181,11 @@ To search for feedback on all blogs associated with The Carpentries
 Our current Carpentry Clippings strategy is like so: The Carpentries Communications Manager (Omar Khan) works to solicit and organise contributions from community members - making sure Core Team members submit updates, and then writing, formatting, and publishing content from them. Some content curation is also involved i.e. for "Tweet of the Week" and "Toolshed (Posts from our Past)" sections.
 To find feedback from community members relevant to The Carpentries newsletter, use the search term ‘Carpentry Clippings’ on the different channels.
 
+> DISCUSSION 
+>
+> What are some of the ways to improve the way feedback is shared by community membersfor content published on broadcast channels such as the ones listed above?
+{: .callout}
+
 ## Soliciting for Feedback
 
 Earlier, we discussed how constructive feedback is often SPECIFIC, OBJECTIVE, TIMELY and ACTIONABLE. If you have decided to ask others for feedback, it can help to consider the following questions so that the responses   you receive will be as clear as possible:
@@ -187,6 +197,8 @@ This will help you to determine the question(s) that you want to ask and how to 
 E.g. If your goal is to determine whether learners attending a workshop were able to access and understand all of the course materials, then the questions that you ask would specifically pertain to how learners had accessed the materials and then interacted with them. 
 
 ### What factors may distort the feedback?
+
+![](../visuals/linear-feedback-hybrid-distortion.jpg)
 
 Asking this question will help you to obtain feedback that is more OBJECTIVE. E.g. asking for verbal feedback from learners at the end of a workshop may result in learners only sharing positive feedback out loud because they don’t feel comfortable sharing negative feedback in a group setting. Or it may be difficult to be present and listen to the feedback and write it down accurately at the same time so details may be missed - including who gave the feedback or precisely what it was about. Also, relying on one person to note down feedback may result in them recalling things that resonated most strongly with them and not be a fully accurate representation of what was shared.
 
