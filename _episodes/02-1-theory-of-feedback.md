@@ -105,9 +105,11 @@ iii) how feedback might be distorted - and how we can counteract that.
 
 ### The ideal feedback cycle
 
+#### How feedback can break down
+
 We started initially by imagining the following simple flow for giving and receiving feedback: 
 
-![](../visuals/linear-feedback-hybrid.jpg)
+![](../visuals/linear-feedback-hybrid-distortion.jpg)
 _Linear Feedback Cycle: Stimulus → feedback is transmitted --> feedback is received ---> outcome_
 
 Taking each of the steps indicated by an arrow, let us explore the ways in which communication might fail.
@@ -127,7 +129,7 @@ Taking each of the steps indicated by an arrow, let us explore the ways in which
 
 - This phase currently emphasises the need for the person receiving the feedback to decide on action that comes next in response to the feedback - but it does not show that clarification may be needed before action can be taken.
 
-**The ideal feedback cycle**
+#### The ideal feedback cycle
 
 ![](../visuals/feedback-loops-hybrid.jpg)
 
