@@ -10,7 +10,9 @@ objectives:
 - "Start a discussion about additional sections that may be necessary to add to the feedback facilitators module."
 
 ---
-Here is an outline of what we will cover in the Feedback Facilitation module of The Carpentries Community Facilitators Program:
+This module was co-created by Lou Woodley and Camille Santistevan from [CSCCE](https://cscce.org) and Serah Rono and Kari Jordan from [The Carpentries](https://carpentries.org).
+
+Here is an outline of what is covered in the Feedback Facilitation module of The Carpentries Community Facilitators Program:
 1. Theory of feedback
   - Definition of feedback
   - Types of feedback
