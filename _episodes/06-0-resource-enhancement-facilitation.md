@@ -3,7 +3,7 @@ title: "Resource Enhancement Facilitation"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "Work in Progress"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
