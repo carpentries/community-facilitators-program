@@ -1,20 +1,25 @@
 ---
 title: "Theory of Feedback"
-teaching: 0
-exercises: 0
+teaching: 45
+exercises: 45
 questions:
-- "Key question (FIXME)"
+- "What is Feedback?"
+- "How many forms can feedback take?"
+- "What is the ideal feedback cycle?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Reflect on how giving, receiving and responding to feedback is important in healthy communities.""
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "There is both an emotional role for feedback in communities - what feedback do I need to give or receive to feel like _I BELONG_? 
+- "There is also a role for feedback in helping us to practically _ALIGN_ around a mission and the processes we will follow as we plan to achieve the mission together."
+- "Optimally presented feedback is specific, objective, timely and actionable"
 ---
 
 ## Definition of Feedback
 
 One might imagine feedback operating via a simple, linear mechanism - where a particular stimulus creates feedback, which is then transmitted and results in some outcome. 
 
-Stimulus → feedback is transmitted --> feedback is received ---> outcome 
+![](../visuals/linear-feedback-hybrid.jpg)
+_Linear Feedback Cycle: Stimulus → feedback is transmitted --> feedback is received ---> outcome_
 
 However, this simple linear flow does not convey some of the nuances of feedback - which we need to bear in mind when we are gathering feedback from others and trying to respond to it in a useful way. Let us take a look at some dictionary definitions that can expand our understanding.
 
@@ -25,7 +30,6 @@ The Oxford dictionary gives three definitions of feedback:
 - Finally, feedback is also **“the return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device; sound distortion produced by this.”** Here, feedback is something that can become _distorted_ - where the original signal may no longer be clear. 
 
 So feedback is important for _improvement_ - it is how we learn about our effects in the world. Feedback also operates _within a system_ or broader set of interactions, rather than as an isolated, disconnected activity. And finally feedback can become distorted - a theme we’ll come back to later in this module.
-
 
 ## Types of feedback
 
@@ -63,10 +67,9 @@ One way that [CSCCE](htpps://cscce.org) defines community is _“A place where m
 
 Being able to give, receive, and respond to feedback is necessary for healthy communities and it is important for two main reasons. Firstly, it is how we get to shape our shared activities i.e. how we interact and align around what to do together. It is also important emotionally to create a sense of belonging. When we feel able to give feedback and that feedback is received and responded to, we feel like our opinions and feelings matter and that we belong in that community. 
 
-> ## Key takeaways
-> - There is both an emotional role for feedback in communities - what feedback do I need to give or receive to feel like _I BELONG_? 
-> - And there is also a role for feedback in helping us to practically _ALIGN_ around a mission and the processes we will follow as we plan to achieve the mission together. 
-{: .keypoints}
+**Key takeaways**
+- There is both an emotional role for feedback in communities - what feedback do I need to give or receive to feel like _I BELONG_? 
+- And there is also a role for feedback in helping us to practically _ALIGN_ around a mission and the processes we will follow as we plan to achieve the mission together. 
 
 Let us unpack these two roles for feedback (belonging and alignment) in more detail. 
 
@@ -104,7 +107,8 @@ iii) how feedback might be distorted - and how we can counteract that.
 
 We started initially by imagining the following simple flow for giving and receiving feedback: 
 
-Stimulus → feedback is transmitted --> feedback is received ---> outcome 
+![](../visuals/linear-feedback-hybrid.jpg)
+_Linear Feedback Cycle: Stimulus → feedback is transmitted --> feedback is received ---> outcome_
 
 Taking each of the steps indicated by an arrow, let us explore the ways in which communication might fail.
 
@@ -127,15 +131,20 @@ Taking each of the steps indicated by an arrow, let us explore the ways in which
 
 We can reimagine our simple linear flow instead as a couple of feedback loops (shown below) that more actively involve the person giving feedback to i) emphasise the importance of their input and ii) to ensure the accuracy of our understanding such that appropriate action might be taken. 
 
-Giver of feedback sends message ---> receipt of message ---> verify understanding (Loop one)
+![](../visuals/feedback-loops-hybrid.jpg)
 
-Take action on feedback → convey action to feedback giver → receive further feedback (Loop two)
+From the first loop above, Giver of feedback sends message ---> receipt of message ---> verify understanding 
+
+From the second loop, Take action on feedback → convey action to feedback giver → receive further feedback 
 
 Note, that the action taken may not be an immediate resolution of the feedback that has been reported. However, we can still convey the next steps in the process so that the feedback giver knows that their input matters.
 
 ### What does optimally presented feedback look like
 
 If we focus more closely now on the feedback itself, what characteristics would that feedback have if it was transmitted in a format that was easy to take action on? 
+
+![](../visuals/elements-of-feedback.jpg)
+_Optimally presented feedback is specific, objective, timely and actionable_
 
 **Specific** - The feedback refers to a specific event, product or person - you know precisely what the feedback is referring to.
 
@@ -154,6 +163,7 @@ This feedback clearly explains what happens - there was a problem with the sound
 E.g. in the example that we are working through, the optimal time to give feedback for this person would have been during the workshop itself - so that attempts could be made to address the technical issue immediately. By leaving the workshop early due to the technical issues, the person giving the feedback now has to identify who to contact and how, creating a barrier to them submitting feedback - and ultimately finding a resolution.
 
 >## Note 
+>
 >sometimes we do not or can not provide a way to give feedback in a timely way and this may lead to distortion of the underlying message e.g. because the giver of the feedback is now more frustrated and/or the problem has gotten worse. Delayed feedback may also require a different action e.g. in the example we are working through the action during the workshop might have been to pause the lesson and resolve the technical issues with the sound, whereas addressing the feedback afterwards becomes about issuing a refund or finding a place for the participant on a future workshop, as well as trouble-shooting what might have happened with the technical issues
 {: .callout}
 
@@ -163,7 +173,11 @@ In the example about the workshop, we could imagine that the ask might be: _“I
 
 ### What distorts Feedback
 
-In the introductory definitions of feedback we briefly mentioned distortion of the message being transmitted (REVISIT TABLE from the Types of Feedback section). Distortion means that the underlying message that was intended to be communicated has been lost or changed somehow such that it is harder to determine the intention of the communication and an appropriate response and resolution. It is therefore important to consider if there are any factors influencing the transmission or receipt of the message when giving and receiving feedback. These can range from the limitations of the feedback mechanism (e.g. a survey may not provide a way to give more qualitative impressions) to social cues such as upvoting that can distort the perceived importance or prevalence of what is being described.
+In the introductory definitions of feedback we briefly mentioned distortion of the message being transmitted (REVISIT TABLE from the [Types of Feedback](#types-of-feedback) section). Distortion means that the underlying message that was intended to be communicated has been lost or changed somehow such that it is harder to determine the intention of the communication and an appropriate response and resolution. 
+
+![](../visuals/linear-feedback-hybrid-distortion.jpg)
+
+It is therefore important to consider if there are any factors influencing the transmission or receipt of the message when giving and receiving feedback. These can range from the limitations of the feedback mechanism (e.g. a survey may not provide a way to give more qualitative impressions) to social cues such as upvoting that can distort the perceived importance or prevalence of what is being described.
 
 > ## Challenge Question
 >
