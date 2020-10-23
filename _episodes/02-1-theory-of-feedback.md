@@ -133,7 +133,7 @@ Taking each of the steps indicated by an arrow, let us explore the ways in which
 
 #### The ideal feedback cycle
 
-![](../visuals/feedback-loops-hybrid.jpg)
+<img src="../visuals/feedback-loops-hybrid.jpg" width=400px/>
 
 We can reimagine our simple linear flow instead as a couple of feedback loops (shown below) that more actively involve the person giving feedback to i) emphasise the importance of their input and ii) to ensure the accuracy of our understanding such that appropriate action might be taken. 
 
