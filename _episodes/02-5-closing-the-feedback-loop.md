@@ -21,7 +21,7 @@ From the first loop below, Giver of feedback sends message ---> receipt of messa
 
 From the second loop, Take action on feedback → convey action to feedback giver → receive further feedback
 
-![](../visuals/feedback-loops-hybrid.jpg)
+<img src="../visuals/feedback-loops-hybrid.jpg" width=400px/>
 
 Up to this point in our feedback cycle, a community member does not yet know how The Carpentries intends to use any feedback they have shared with The Carpentries, if at all. For this reason, if they reads a community-wide request from us asking them to audit the process and give feedback, we anticipate that three things might happen:
 - they may lean on your trust for The Carpentries, and give us feedback if, from your experience, we have acted on other feedback you shared or as goodwill
