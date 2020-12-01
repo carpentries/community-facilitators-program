@@ -4,7 +4,7 @@ start: true
 teaching: 0
 exercises: 0
 questions:
-- "Work in Progress"
+- "Content Pending"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
