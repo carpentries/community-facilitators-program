@@ -4,9 +4,11 @@ start: true
 teaching: 0
 exercises: 0
 questions:
-- "Content Pending"
+- "What is covered under the Code of Conduct Facilitation module of the Community Facilitators Program?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Describe why the Code of Conduct Facilitator module was created."
+- "Identify content and resources made available to Code of Conduct facilitators during onboarding and over the course of their cohort work."
+- "Identify additional sections that may be necessary to add to the feedback facilitators module."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
