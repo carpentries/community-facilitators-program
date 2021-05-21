@@ -1,5 +1,5 @@
 ---
-title: "Community of Code of Conduct Facilitators"
+title: "Code of Conduct Facilitators Onboarding Schedule"
 start: true
 teaching: 0
 exercises: 0
