@@ -4,7 +4,7 @@ start: true
 teaching: 0
 exercises: 0
 questions:
-- "How will Code of Conduct facilitators interact with one another in the community?"
+- "How long are onboarding sessions for incoming Code of Conduct facilitators?"
 objectives:
 - "Understand how initial Code of Conduct facilitation training and onboarding sessions are structured"
 keypoints:
