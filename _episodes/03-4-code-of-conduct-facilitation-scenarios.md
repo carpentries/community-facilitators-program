@@ -96,6 +96,61 @@ Someone noticed a violation of CoC but they don’t feel authorised to address t
 {: .solution}
 
 
+## Second Set of Examples
 
+Some scenarios that can be considered before the event to ensure that the Code of Conduct is fairly implemented:
+
+### Scenario 1
+
+A person with a disability is unsure if they can attend a course.
+
+> ## Solution
+>
+> - Mention on the website that the workshop organisers want to make sure that everyone feels welcome to attend the workshop and are available to address any personal request to accommodate the needs of participants with special requirements.
+> - Try to always choose a location that is wheelchair accessible, if this is not possible, then mention that on the website and list any possible workshop in future that can be organised at an accessible location.
+> - Send a pre-event survey with questions concerning accessibility and individual’s needs (food, equipment, mobility, etc.). 
+{: .solution}
+
+### Scenario 2
+
+People cannot concentrate for very long sessions.
+
+> ## Solution
+> Indicate on the website that the schedule will include several breaks and also list if refreshments will be provided 
+{: .solution}
+
+### Scenario 3
+
+Language barriers.
+
+> ## Solution
+>
+> When trainers are teaching in different countries where English is not the first language, it’s important that a local person who understands the local language is listed as one of the organisers who can be contacted for questions related to venue, accessibility, schedule or other concerns.
+{: .solution}
+
+### Scenario 4
+
+Issues related to the Internet, electricity (load shedding in some countries), limited equipment at the venue, participants’ computers and possible incompatibility with the software required in the class. 
+
+> ## Solution
+>
+> - On the course page and personal communication by email, indicate the system requirement along with the exception that the workshop participants might face.
+> - Make sure that the course is to a higher degree independent of internet usage.
+> - Create some exercises that don’t require electricity by including group activities and discussions.
+> - Encourage students to work in pairs or groups so not everyone needs to have a computer, but get to learn together by sharing resources.
+> - If possible, keep a laptop with the required configuration for backup. Also, have USB sticks with all the materials so that participants can access data or materials even in the absence of high-speed internet.
+{: .solution}
+
+### Scenario 5
+
+Oversubscription of the workshop.
+
+> ## Solution
+> - Keep a list of interested participants who can be contacted regarding future events. 
+> - Make sure that registered participants have confirmed to come. If they don’t confirm their place should be given to the next person on the waiting list.
+> - Ask for motivation statements (1-2 sentences) to make sure that the participants are serious about attending the course.
+> - In some cases, a small amount of registration fee can be charged that ensures participants are interested and are willing to attend the course.
+> - Since it is not always possible to charge a fee in the university, a no-show fee can be listed for participants who don’t show up without any warning.
+{: .solution}
 
 {% include links.md %}
