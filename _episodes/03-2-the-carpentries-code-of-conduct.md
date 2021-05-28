@@ -36,7 +36,8 @@ This set a good precedent early on for a community-involved revision process aro
 Taking an in-depth look into The Carpentries Code of Conduct, it is designed to 
 
 1. **provide incoming community members with the opportunity to audit our community norms and values** against their own so they can determine if joining our community and its activities is a good fit. 
-2. **guide community members and partners of the organisation** on how to conduct themselves, broadly, by listing examples of expected and acceptable behaviours.  
+2. **guide community members and partners of the organisation** on how to conduct themselves, broadly, by listing examples of expected and acceptable behaviours. 
+ 
 >### Part 2.1 Expected behaviour
 >
 >All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
@@ -46,7 +47,9 @@ Taking an in-depth look into The Carpentries Code of Conduct, it is designed to
 > - Focus on what is best for the community
 > - Show courtesy and respect towards other community members
 {: .callout}
+
 3. **remove ambiguity around our community norms and lines of responsibility by providing clarity** on what constitutes unacceptable behaviour, and how to flag these for the CoCc to address, 
+
 >### Part 2.2 Unacceptable behaviour
 >
 >Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
@@ -68,7 +71,9 @@ Taking an in-depth look into The Carpentries Code of Conduct, it is designed to
 >
 >Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries CoCc to investigate the Code of Conduct violation and impose appropriate sanctions
 {: .callout}
+
 4. **offer clear remedial and resolution pathways where individuals’ experiences in the community do not match agreed-on expectations coming into the community**. The Carpentries goal is to make our community more inclusive and diverse, and it is important that our intention and promise (to make everyone feel that they belong regardless of their background, ethnicity, skill level, gender, career stage, or beliefs) matches the observations and experiences that individual community members have.
+
 > - [Code of Conduct Incident Reporting Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html)
 > - [Reporting a Potential Code of Conduct Incident](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#reporting-a-potential-code-of-conduct-incident)
 > - [Alternative Contact Points](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#alternative-contact-points)
