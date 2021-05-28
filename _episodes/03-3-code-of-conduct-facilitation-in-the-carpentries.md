@@ -56,7 +56,7 @@ We brought the same discussion to our trainers guided by the set of questions be
 
 **Community Input 3**: [Task force Recommendations 2 and 3](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#objective) on how to deal with incidents outside of The Carpentries spaces and activities prescribed by a Task Force in September 2019. 
 
->## Recommendation 2: Volunteer Code of Conduct Facilitators
+> ## Recommendation 2: Volunteer Code of Conduct Facilitators
 
 >This task force has determined that neither the Carpentries Staff, CoCc, nor the Executive Council is exclusively responsible for monitoring and/or proactively responding to dialogue in Carpentries spaces (in-person or online), or non-Carpentries spaces where Carpentries community members are active. Our recommendation is for the CoCc, Regional Coordinators, and Instructor Trainers to encourage and empower community members to share any incidents or concerns to an ombudsperson or the CoCc. Additionally, we recommend making the button to report a Code of Conduct violation more prominent on the [Carpentries website](https://carpentries.org/).
 >
