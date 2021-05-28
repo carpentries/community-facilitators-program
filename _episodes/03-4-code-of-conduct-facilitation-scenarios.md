@@ -18,11 +18,21 @@ Below are scenarios that can cause discomfort or Code of Conduct (CoC) violation
 
 A participant faced an uncomfortable situation during the event/workshop. Who can they contact to report bias incidents? 
 
->**Solution**
+> **Solution**
 >
 > - Organisers: The organiser will designate a trained Code of Conduct facilitator to help in reporting of these incidents and what resources they will have to support them 
 > - CoC facilitators: The CoC facilitators will already have guidance on how to take reports or respond in case of potential CoC violations from their onboarding and training. They should agree with the organisers about the mechanisms to ask questions, get clarifications regarding CoC, addressing incidents, timeframe, etc particularly in situations where institutions have a separate CoC process from that of The Carpentries.
 > - Participants: Participants should take note of the precise contact information of the person(s) who can be contacted in case of an emergency that they or their colleagues may face at the event. These contacts should be listed on the website, shared by email and mentioned at the beginning of each day at the workshop for the event participants.
+{: .solution}
+
+### Scenario 2:
+
+A participant is constantly interrupting the instructor or helper at a workshop What should be done to stop such behaviors?
+
+> **Solution:**
+>
+> - **Instructor/helpers**: They can call for a 5 minutes break. During this time, the instructor can personally talk to the participant letting them know that their interruption may be bothering other participants. They can take this chance to designate a helper to address their concerns without disturbing the rest of the  attendees. 
+> - **CoC facilitators**: A CoC facilitator is also in a position to act as an ally for instructors and helpers who can personally talk to the participant to point out that their interruption may be bothering other participants, and offer them help to ask their questions individually to a helper. If these interruptions are intentional and a potential breach of CoC, the CoC facilitator must report this to the CoCc.
 {: .solution}
 
 {% include links.md %}

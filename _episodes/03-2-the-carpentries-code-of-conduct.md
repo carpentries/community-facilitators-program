@@ -37,75 +37,75 @@ Taking an in-depth look into The Carpentries Code of Conduct, it is designed to
 
 1. **provide incoming community members with the opportunity to audit our community norms and values** against their own so they can determine if joining our community and its activities is a good fit. 
 2. **guide community members and partners of the organisation** on how to conduct themselves, broadly, by listing examples of expected and acceptable behaviours. 
-   
-  > ### Part 2.1 Expected behaviour
-  >
-  >All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
-  > - Use welcoming and inclusive language
-  > - Be respectful of different viewpoints and experiences
-  > - Gracefully accept constructive criticism
-  > - Focus on what is best for the community
-  > - Show courtesy and respect towards other community members
-  {: .callout}
-
+      
+      > ## Part 2.1 Expected behaviour
+      >
+      >All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+      > - Use welcoming and inclusive language
+      > - Be respectful of different viewpoints and experiences
+      > - Gracefully accept constructive criticism
+      > - Focus on what is best for the community
+      > - Show courtesy and respect towards other community members
+      {: .callout}
+      
 3. **remove ambiguity around our community norms and lines of responsibility by providing clarity** on what constitutes unacceptable behaviour, and how to flag these for the CoCc to address, 
- 
-  > ### Part 2.2 Unacceptable behaviour
-  >
-  >Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
-  > - written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
-  > - causing someone to fear for their safety; such as through stalking, following, or intimidation
-  > - violent threats or language directed against another person
-  > - the display of sexual or violent images
-  > - unwelcome sexual attention
-  > - nonconsensual or unwelcome physical contact
-  > - sustained disruption of talks, events or communications
-  > - insults or put-downs
-  > - sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
-  > - excessive swearing
-  > - incitement to violence, suicide, or self-harm
-  > - continuing to initiate interaction (including photography or recording) with someone after being asked to stop
-  > - publication of private communication without consent
-  {: .callout}
-  
-  > ### Part 2.3 Consequences of Unacceptable behaviour
-  >
-  >Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries CoCc to investigate the Code of Conduct violation and impose appropriate sanctions
-  {: .callout}
-
+     
+      > ## Part 2.2 Unacceptable behaviour
+      >
+      >Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
+      > - written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+      > - causing someone to fear for their safety; such as through stalking, following, or intimidation
+      > - violent threats or language directed against another person
+      > - the display of sexual or violent images
+      > - unwelcome sexual attention
+      > - nonconsensual or unwelcome physical contact
+      > - sustained disruption of talks, events or communications
+      > - insults or put-downs
+      > - sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+      > - excessive swearing
+      > - incitement to violence, suicide, or self-harm
+      > - continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+      > - publication of private communication without consent
+      {: .callout}
+      
+      > ## Part 2.3 Consequences of Unacceptable behaviour
+      >
+      >Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries CoCc to investigate the Code of Conduct violation and impose appropriate sanctions
+      {: .callout}
+      
 4. **offer clear remedial and resolution pathways where individuals’ experiences in the community do not match agreed-on expectations coming into the community**. The Carpentries goal is to make our community more inclusive and diverse, and it is important that our intention and promise (to make everyone feel that they belong regardless of their background, ethnicity, skill level, gender, career stage, or beliefs) matches the observations and experiences that individual community members have.
-  
-  > ### Detailed CoC Guidelines
-  > - [Code of Conduct Incident Reporting Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html)
-  > - [Reporting a Potential Code of Conduct Incident](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#reporting-a-potential-code-of-conduct-incident)
-  > - [Alternative Contact Points](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#alternative-contact-points)
-  > - [Confidentiality](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#confidentiality)
-  > - [Report Data](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#report-data)
-  > - [Following Up with Reporter(s)](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#following-up-with-reporter-s)
-  > - [Code of Conduct Incident Response Procedure and Enforcement Guidelines](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html)
-  > - [Terminology](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#terminology)
-  > - [Incident Response Procedure for The Carpentries CoCc](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee)
-  > - [Report Acknowledgement](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#report-acknowledgement)
-  > - [Incident Response Assessment](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment)
-  > - [Following up with the Reportee](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#following-up-with-the-reportee)
-  > - [Resolutions](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#resolutions)
-  > - [Appeal Process](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#appeal-process)
-  > - [Accountability](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#accountability)
-  > - [Conflicts of Interest](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#conflicts-of-interest)
-  > - [Code of Conduct Termed Suspension Guidelines](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html)
-  > - [The Carpentries Termed Suspension Checklist](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#the-carpentries-termed-suspension-checklist)
-  > - [Online Communication and Communities](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#online-communication-and-communities)
-  > - [Teaching Workshops](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#teaching-workshops)
-  > - [Organising Workshops](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#organising-workshops)
-  > - [Instructor Training](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#instructor-training)
-  > - [Trainer Training](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#trainer-training)
-  > - [Member Organisation and Local Activities](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#member-organisation-and-local-activities)
-  > - [Lesson Development and Maintenance](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#lesson-development-and-maintenance)
-  > - [Executive Council](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#executive-council)
-  > - [Committees, Task Forces, and Other Interactions](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#committees-task-forces-and-other-interactions)
-  > - [Other Interactions](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#other-interactions)
-  {: .callout}
-  
+      
+      > ## Detailed CoC Guidelines
+      > - [Code of Conduct Incident Reporting Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html)
+      > - [Reporting a Potential Code of Conduct Incident](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#reporting-a-potential-code-of-conduct-incident)
+      > - [Alternative Contact Points](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#alternative-contact-points)
+      > - [Confidentiality](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#confidentiality)
+      > - [Report Data](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#report-data)
+      > - [Following Up with Reporter(s)](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html#following-up-with-reporter-s)
+      > - [Code of Conduct Incident Response Procedure and Enforcement Guidelines](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html)
+      > - [Terminology](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#terminology)
+      > - [Incident Response Procedure for The Carpentries CoCc](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee)
+      > - [Report Acknowledgement](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#report-acknowledgement)
+      > - [Incident Response Assessment](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment)
+      > - [Following up with the Reportee](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#following-up-with-the-reportee)
+      > - [Resolutions](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#resolutions)
+      > - [Appeal Process](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#appeal-process)
+      > - [Accountability](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#accountability)
+      > - [Conflicts of Interest](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#conflicts-of-interest)
+      > - [Code of Conduct Termed Suspension Guidelines](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html)
+      > - [The Carpentries Termed Suspension Checklist](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#the-carpentries-termed-suspension-checklist)
+      > - [Online Communication and Communities](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#online-communication-and-communities)
+      > - [Teaching Workshops](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#teaching-workshops)
+      > - [Organising Workshops](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#organising-workshops)
+      > - [Instructor Training](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#instructor-training)
+      > - [Trainer Training](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#trainer-training)
+      > - [Member Organisation and Local Activities](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#member-organisation-and-local-activities)
+      > - [Lesson Development and Maintenance](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#lesson-development-and-maintenance)
+      > - [Executive Council](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#executive-council)
+      > - [Committees, Task Forces, and Other Interactions](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#committees-task-forces-and-other-interactions)
+      > - [Other Interactions](https://docs.carpentries.org/topic_folders/policies/termed-suspension.html#other-interactions)
+      {: .callout}
+        
 ## TL;DR - The Value of Summary
 
 Our Code of Conduct governs all activities and convenings in The Carpentries, whether online or in-person. In practice, this means that at the start of any workshop, community call, CarpentryCon or CarpentryConnect conference session, we make sure to draw attention to the Code of Conduct and state summarily what is in it.
