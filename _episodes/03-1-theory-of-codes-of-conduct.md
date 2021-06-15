@@ -1,8 +1,8 @@
 ---
 title: "Theory of Codes of Conduct"
 start: true
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - "What is the relationship between community norms, participation guidelines and codes of conduct?"
 - "How can one begin to develop a code of conduct"

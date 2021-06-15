@@ -1,8 +1,8 @@
 ---
 title: "Community of Code of Conduct Facilitators"
 start: true
-teaching: 0
-exercises: 0
+teaching: 5
+exercises: 5
 questions:
 - "How will Code of Conduct facilitators interact with one another in the community?"
 objectives:

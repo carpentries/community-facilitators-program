@@ -1,8 +1,8 @@
 ---
 title: "The Carpentries Code of Conduct"
 start: true
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - "How was The Carpentries Code of Conduct developed?"
 - "What are the core tenets of The Carpentries Code of Conduct?"

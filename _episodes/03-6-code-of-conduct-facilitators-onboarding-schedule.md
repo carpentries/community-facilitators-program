@@ -1,7 +1,7 @@
 ---
 title: "Code of Conduct Facilitators Onboarding Schedule"
 start: true
-teaching: 0
+teaching: 5
 exercises: 0
 questions:
 - "How long are onboarding sessions for incoming Code of Conduct facilitators?"

@@ -1,8 +1,8 @@
 ---
 title: "Code of Conduct Facilitation"
 start: true
-teaching: 0
-exercises: 0
+teaching: 20
+exercises: 10
 questions:
 - "What is covered under the Code of Conduct Facilitation module of the Community Facilitators Program?"
 objectives:

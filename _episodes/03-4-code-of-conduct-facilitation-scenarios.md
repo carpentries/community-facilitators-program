@@ -1,8 +1,8 @@
 ---
 title: "Code of Conduct Facilitation Scenarios"
 start: true
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 30
 questions:
 - "What are example situations that may require Code of Conduct facilitation in The Carpentries?"
 objectives:
