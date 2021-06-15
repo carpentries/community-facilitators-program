@@ -1,8 +1,8 @@
 ---
 title: "Code of Conduct Facilitation in The Carpentries"
 start: true
-teaching: 30
-exercises: 30
+teaching: 15
+exercises: 5
 questions:
 - "What necessitated the introduction of Code of the Conduct facilitators role in The Carpentries?"
 - "How will Code of Conduct facilitators work with the Code of Conduct committee in The Carpentries?"
