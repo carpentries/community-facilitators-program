@@ -69,7 +69,7 @@ Taking an in-depth look into The Carpentries Code of Conduct, it is designed to
       
       > ## Part 2.3 Consequences of Unacceptable behaviour
       >
-      >Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries CoCc to investigate the Code of Conduct violation and impose appropriate sanctions
+      >Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries CoCc to investigate the Code of Conduct violation and impose appropriate sanctions
       {: .callout}
       
 4. **offer clear remedial and resolution pathways where individuals’ experiences in the community do not match agreed-on expectations coming into the community**. The Carpentries goal is to make our community more inclusive and diverse, and it is important that our intention and promise (to make everyone feel that they belong regardless of their background, ethnicity, skill level, gender, career stage, or beliefs) matches the observations and experiences that individual community members have.

@@ -4,7 +4,7 @@ teaching: 15
 exercises: 10
 questions:
 - "What is the relationship between community norms, participation guidelines and codes of conduct?"
-- "How can one begin to develop a code of conduct"
+- "How can one begin to develop a Code of Conduct"
 objectives:
 - "Understand the types of agreements that guide collaboration in communities, levels of formality involved with each one, and where each type of agreement is best suited."
 keypoints:
