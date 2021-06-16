@@ -13,7 +13,7 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-This module was co-created by [Serah Njambi Rono](https://github.com/serahrono), Director of Community Development and Engagement at The Carpentries and Code of Conduct committee members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from The Carpentries Core Team. This Code of Conduct facilitation module contains the following sections:
+This module was co-created by [Serah Njambi Rono](https://github.com/serahrono), Director of Community Development and Engagement at The Carpentries and [Code of Conduct Committee](https://carpentries.org/coc-ctte/) members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from The Carpentries Core Team. This Code of Conduct facilitation module contains the following sections:
 
 - [Theory of codes of conduct](https://carpentries.github.io/community-facilitators-program/03-1-theory-of-codes-of-conduct/index.html)
 - [The Carpentries Code of Conduct - a deepdive](https://carpentries.github.io/community-facilitators-program/03-2-the-carpentries-code-of-conduct/index.html)
@@ -33,7 +33,7 @@ In July 2019, we determined it necessary to recruit community members to constit
 After a round of community input, the incident-response Task Force [published a set of recommendations](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md) on guidelines, approaches, support structures or policies that could be developed to respond to incidents that happen outside the mandate of the Carpentries Code of Conduct Committee. Two out of the six recommendations pointed at **the need for empowering more community members to facilitate some Code of Conduct processes in our community spaces as our community continues to grow**, more specifically:
 
 1. [As Code of Conduct facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) trained and prepared to
-  1. share any incidents or concerns to an ombudsperson, directly with the Code of Conduct Committee, and
+  1. share any incidents or concerns to an ombudsperson, directly with the [Code of Conduct Committee](https://carpentries.org/coc-ctte/), and
   2. actively monitor of online Carpentries channels, and representatives in community calls, local, regional and global Carpentries events
 2. as counselors trained and prepared to guide community members who might want to discuss potential incidents before reporting them to the Code of Conduct Committee, in addition to facilitating the reporting process
 
