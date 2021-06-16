@@ -15,12 +15,12 @@ keypoints:
 
 This module was co-created by [Serah Njambi Rono](https://github.com/serahrono), Director of Community Development and Engagement at The Carpentries and Code of Conduct committee members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from The Carpentries Core Team. This Code of Conduct facilitation module contains the following sections:
 
-- [Theory of codes of conduct](https://carpentries.github.io/03-1-theory-of-codes-of-conduct/index.html)
-- [The Carpentries Code of Conduct - a deepdive](https://carpentries.github.io/03-2-the-carpentries-code-of-conduct/index.html)
-- [How Code of Conduct facilitation will work in The Carpentries](https://carpentries.github.io/03-3-code-of-conduct-facilitation-in-the-carpentries/index.html)
-- [Code of conduct facilitation scenarios](https://carpentries.github.io/03-4-code-of-conduct-facilitation-scenarios/index.html)
-- [Information about how Code of Conduct facilitators will interact](https://carpentries.github.io/03-5-community-of-code-of-conduct-facilitators/index.html)
-- [Information about the Code of Conduct facilitators onboarding schedule](https://carpentries.github.io/03-6-code-of-conduct-facilitators-onboarding-schedule/index.html)
+- [Theory of codes of conduct](https://carpentries.github.io/community-facilitators-program/03-1-theory-of-codes-of-conduct/index.html)
+- [The Carpentries Code of Conduct - a deepdive](https://carpentries.github.io/community-facilitators-program/03-2-the-carpentries-code-of-conduct/index.html)
+- [How Code of Conduct facilitation will work in The Carpentries](https://carpentries.github.io/community-facilitators-program/03-3-code-of-conduct-facilitation-in-the-carpentries/index.html)
+- [Code of conduct facilitation scenarios](https://carpentries.github.io/community-facilitators-program/03-4-code-of-conduct-facilitation-scenarios/index.html)
+- [Information about how Code of Conduct facilitators will interact](https://carpentries.github.io/community-facilitators-program/03-5-community-of-code-of-conduct-facilitators/index.html)
+- [Information about the Code of Conduct facilitators onboarding schedule](https://carpentries.github.io/community-facilitators-program/03-6-code-of-conduct-facilitators-onboarding-schedule/index.html)
 
 ## Why this Code of Conduct module exists
 
