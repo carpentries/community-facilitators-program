@@ -1,6 +1,5 @@
 ---
 title: "The Carpentries Code of Conduct"
-start: true
 teaching: 15
 exercises: 10
 questions:

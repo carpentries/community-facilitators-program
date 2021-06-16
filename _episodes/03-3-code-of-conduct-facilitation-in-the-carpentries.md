@@ -1,6 +1,5 @@
 ---
 title: "Code of Conduct Facilitation in The Carpentries"
-start: true
 teaching: 15
 exercises: 5
 questions:

@@ -1,6 +1,5 @@
 ---
 title: "Code of Conduct Facilitators Onboarding Schedule"
-start: true
 teaching: 5
 exercises: 0
 questions:

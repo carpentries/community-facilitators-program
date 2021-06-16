@@ -1,6 +1,5 @@
 ---
 title: "Theory of Codes of Conduct"
-start: true
 teaching: 15
 exercises: 10
 questions:

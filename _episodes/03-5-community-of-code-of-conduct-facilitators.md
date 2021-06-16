@@ -1,6 +1,5 @@
 ---
 title: "Community of Code of Conduct Facilitators"
-start: true
 teaching: 5
 exercises: 5
 questions:

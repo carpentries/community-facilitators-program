@@ -1,6 +1,5 @@
 ---
 title: "Code of Conduct Facilitation Scenarios"
-start: true
 teaching: 10
 exercises: 30
 questions:
